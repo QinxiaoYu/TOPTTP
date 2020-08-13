@@ -8,7 +8,7 @@
 
 - [Instances_EDP](./Instances_EDP) includes the instances where the profit of each customer exponentially decreases with the arrival time.
 
-- [InstanceFileFormat.txt](./InstanceFileFormat) describes the file format in instances.
+- [InstanceFileFormat.txt](./InstanceFileFormat.txt) describes the file format in instances.
 
 ## Results 
 
