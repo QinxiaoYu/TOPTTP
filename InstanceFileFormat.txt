@@ -1,5 +1,6 @@
-1.Each text file refers to the network.
+1.Each text file refers to a network with different number of customers. 
 2.C and R refer to the cluster-located network and random-located network, respctively.
-3. "L" in the file refers to the perimeter of the minimum bounding rectangle to all nodes in the instance.
-4.The first node is the depot.
+3. "L" in the file refers to the perimeter of the minimum bounding rectangle to all nodes in this network.
+4.The first node is the depot, following by the customers.
 5.The number of vehicles and the time limit are not specified in each file.
+
