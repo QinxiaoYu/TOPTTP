@@ -8,8 +8,11 @@
 
 - [Instances_EDP](./Instances_EDP) includes the instances where the profit of each customer exponentially decreases with the arrival time.
 
-- [FileFormat.txt](./FileFormat) describes the file format in instances.
+- [InstanceFileFormat.txt](./InstanceFileFormat) describes the file format in instances.
 
 ## Results 
-### Results_LDP
-### Results_EDP
+
+The detailed results listed in the mentioned paper are included in the following two folders.
+- [Results_LDP](./Results_LDP) includes the results obtained from different methods for all instances with 6, 9, 25, 50, 75 and 100 customers and linearly decreasing profit. 
+- [Results_EDP](./Results_EDP) includes the results obtained from different methods for all instances with 6, 9 and 25 customers and exponentially decreasing profit. 
+
