@@ -8,7 +8,10 @@
 
 - [Instances_EDP](./Instances_EDP) includes the instances where the profit of each customer exponentially decreases with the arrival time.
 
-- [InstanceFileFormat.txt](./InstanceFileFormat.txt) describes the file format of instances.
+- [InstanceFileFormat.txt](./InstanceFileFormat.txt) is a description of the text file that defines the network used in each instance.
+  - All the instances are modified based on the Solomon benchmark. 
+  - Customer 0 denotes the depot, where all vehicles must start and finish. 
+  - L is the 
 
 ## Results 
 
