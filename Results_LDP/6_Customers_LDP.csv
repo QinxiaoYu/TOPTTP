@@ -1,5 +1,5 @@
 ﻿instance,SCIP,,BBC,,EnBBC,,,,,ILS-IpOpt,,,,,,ILS-MCS,,,,,
-,z_{opt},Time (s),z_{opt},Time (s),z_{lb},z_{ub},gap,Time (s),Time Fond z_{lb}(s),z_best,z_worst,z_avg,sd_z,gap,Time (s),z_best,z_worst,z_avg,sd_z,gap,Time (s)
+NbCus/Tmax/NbVeh,z_{opt},Time (s),z_{opt},Time (s),z_{lb},z_{ub},gap,Time (s),Time Fond z_{lb}(s),z_best,z_worst,z_avg,sd_z,gap,Time (s),z_best,z_worst,z_avg,sd_z,gap,Time (s)
 C6/70/2,15.88 ,34.2,15.88,25.9,15.88,15.88,0.0%,0.37,0.36,15.88,15.88,15.88,0.00,0.0%,0.98,15.88,15.88,15.88,0.00,0.0%,0.03
 C6/140/2,30.25 ,79.1,30.25,47.7,30.25,30.25,0.0%,2.00,1.77,30.25,30.25,30.25,0.00,0.0%,3.07,30.25,30.25,30.25,0.00,0.0%,0.05
 C6/210/2,40.90 ,225.4,40.90,60.8,40.90,40.90,0.0%,4.66,2.47,40.90,40.90,40.90,0.00,0.0%,2.94,40.90,40.90,40.90,0.00,0.0%,0.06
