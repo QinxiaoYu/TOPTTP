@@ -1,5 +1,5 @@
 ﻿instance,EnBBC (4h),,,,ILS-IPOPT,,,,,,AILS-MCS,,,,,
-C NbCus/Tmax/NbVeh,z_{lb},z_{ub},gap(%),z_{lb} Found time(s),z_best,z_worst,z_avg,sd_z,gap(%),Time (s),z_best,z_worst,z_avg,sd_z,gap(%),Time (s)
+NbCus/Tmax/NbVeh,z_{lb},z_{ub},gap(%),z_{lb} Found time(s),z_best,z_worst,z_avg,sd_z,gap(%),Time (s),z_best,z_worst,z_avg,sd_z,gap(%),Time (s)
 C100/350/2,201.92 ,242.39 ,20.0%,7086.88 ,219.83 ,214.19 ,218.10 ,2.54 ,11.1%,172.26 ,219.83,219.83,219.83,0.00,10.3%,7.41
 C100/700/2,373.94 ,430.98 ,15.3%,2856.86 ,371.59 ,370.73 ,371.14 ,0.30 ,16.1%,459.56 ,371.88,362.47,369.52,3.56,16.6%,96.50
 C100/1050/2,463.14 ,584.84 ,26.3%,4829.98 ,464.49 ,460.25 ,463.33 ,1.75 ,26.2%,1254.73 ,466.37,462.30,465.33,1.53,25.7%,387.65
